@@ -1,0 +1,99 @@
+{
+  "Name": "Akash Singh",
+  "Contact Information": {
+    "Phone": "+91-7857925093",
+    "Email": "akash.ipg30@gmail.com",
+    "LinkedIn": "linkedin.com/in/akash",
+    "GitHub": "github.com/akash",
+    "Twitter": "x.com/something"
+  },
+  "Summary": null,
+  "Education": [
+    {
+      "Degree": "BTech Computer Science",
+      "Institution": "SRM Institute Of Science and Technology",
+      "Location": "Chennai, Tamil Nadu",
+      "Dates": "2021-2025",
+      "CGPA": "8.44"
+    },
+    {
+      "Degree": "12th",
+      "Institution": "RNP Public School",
+      "Location": "Saran, Bihar",
+      "Dates": "2018-2020",
+      "CGPA": "70%"
+    },
+    {
+      "Degree": "10th",
+      "Institution": "St Paul’s High School",
+      "Location": "Vaishali, Bihar",
+      "Dates": "2017-2018",
+      "CGPA": "82%"
+    }
+  ],
+  "Professional Experience": [
+    {
+      "Job Title": "Microsoft Learn Student Ambassadors",
+      "Company": "SRM (Microsoft learn)",
+      "Dates": "Dec 2021 - Jun 2024",
+      "Responsibilities": [
+        "Being a part of the Microsoft Student Learn Program, I am constantly learning, growing, and expanding my horizons in the field of technology.",
+        "I am grateful for the opportunities it provides and excited to continue my journey of exploration and discovery."
+      ]
+    },
+    {
+      "Job Title": "Infosys Springboard",
+      "Company": "Infosys",
+      "Dates": "Nov 2023 - Present",
+      "Responsibilities": [
+        "Successfully completed extensive training programs on Infosys Springboard, focusing on cutting-edge technologies such as Artificial Intelligence, Machine Learning, Cloud Computing, and Data Analytics.",
+        "Developed strong technical skills by working on various hands-on projects and real-world scenarios provided by Infosys Springboard, demonstrating the ability to apply theoretical knowledge in practical situations."
+      ]
+    },
+    {
+      "Job Title": "GDSC Member",
+      "Company": "Google Developer Student Club",
+      "Dates": "Apr 2023 - Present",
+      "Responsibilities": [
+        "GDSC at IIT Patna is a vibrant community of aspiring developers and tech enthusiasts who are passionate about leveraging technology to create innovative solutions to real-world challenges. Our club serves as a platform for students to explore and enhance their skills in various Google technologies, software development, and entrepreneurship.",
+        "Collaborated with Content Team to promote blog posts and guest posts."
+      ]
+    }
+  ],
+  "Skills": [
+    "Data Structures and Algorithm",
+    "Object Oriented Programming",
+    "DBMS",
+    "React.js",
+    "Html, CSS, JavaScript, Node.js",
+    "Data Analysis (Numpy, Pandas, Matplotlib)",
+    "Machine Learning Algorithms",
+    "Git/Git commands",
+    "CSE Core/fundamentals"
+  ],
+  "Projects": [
+    {
+      "Project Name": "CAPSTONE - Web Development",
+      "Dates": "Jan 2023 - May 2023",
+      "Description": "Experienced in developing a comprehensive e-commerce website specializing in clothing products, encompassing both front-end and back-end development. Proficient in utilizing technologies such as HTML, CSS, JavaScript, and React.js for intuitive user interfaces and seamless navigation. Skilled in implementing secure payment gateways and robust database management systems for efficient transaction processing. Dedicated to delivering an exceptional online shopping experience through responsive design and personalized features."
+    },
+    {
+      "Project Name": "Neural Style Transfer - Artificial Intelligence",
+      "Dates": "Oct 2023 - Dec 2023",
+      "Description": "Proficient in implementing Neural Style Transfer using PyTorch, a cutting-edge deep learning technique for generating visually appealing artistic images. Skilled in leveraging pre-trained convolutional neural networks to extract content and style features from input images, defining custom loss functions, and optimizing model parameters through gradient descent to produce stunning stylized outputs. Demonstrates expertise in deep learning, computer vision, and image processing, with the ability to apply Neural Style Transfer in various applications such as art generation, image editing, and visual effects."
+    },
+    {
+      "Project Name": "Online Video KYC - Web Development and AI",
+      "Dates": "Mar 2024",
+      "Description": "A team project to develop an online video KYC (Know Your Customer) solution using Flask and Supabase, aimed at streamlining the customer onboarding process for a financial services client. Implemented robust video streaming and authentication functionalities to ensure secure and seamless verification of customer identities remotely."
+    },
+    {
+      "Project Name": "Exploratory Data Analysis - Data Analyst",
+      "Dates": "Jan 2023 - Mar 2023",
+      "Description": "Proficient in exploratory data analysis (EDA) techniques using real-world datasets, with a recent focus on the Zomato dataset. Skilled in extracting meaningful insights and trends through data visualization and statistical analysis, adept at using tools such as Python, Pandas, Matplotlib, and Seaborn to uncover actionable insights for informed decision-making."
+    }
+  ],
+  "Certifications": [],
+  "Languages": [],
+  "Additional Information": []
+}
